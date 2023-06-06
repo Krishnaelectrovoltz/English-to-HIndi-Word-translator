@@ -1,6 +1,4 @@
-# English-to-HIndi-Word-translator
-THis is a Small program which converts a single enlish word to hindi 
-# English to Hindi Word Translator
+ # English to Hindi Word Translator
 
 This is a simple English to Hindi word translator program implemented in C language using web scraping. The program allows you to enter an English word and it will fetch the corresponding Hindi translation from a specified website.
 
