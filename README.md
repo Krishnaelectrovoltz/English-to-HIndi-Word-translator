@@ -4,7 +4,7 @@ This is a simple English to Hindi word translator program implemented in C langu
 
 ## Prerequisites
 
-To run this program, you need to have the following software installed on your system:
+To run this program, you need to have the following software installed on your system: 
 
 - C compiler (e.g., GCC)
 
