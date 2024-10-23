@@ -2,7 +2,7 @@
 
 This is a simple English to Hindi word translator program implemented in C language using web scraping. The program allows you to enter an English word and it will fetch the corresponding Hindi translation from a specified website.
 
-## Prerequisites
+## Prerequisites 
 
 To run this program, you need to have the following software installed on your system: 
 
